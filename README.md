@@ -6,6 +6,6 @@ automatically start chrome in fullscreen on restart, showing `http://localhost:8
 # setup
 
 
- - `cp _lib_systemd_system_kiosk.service`
+ - `cp _lib_systemd_system_kiosk.service /lib/systemd/system/kiosk.service`
  - `service kiosk start`
  - done.
