@@ -6,3 +6,6 @@ automatically start chrome in fullscreen on restart, showing `http://localhost:8
 # setup
 
 
+ - relocate the files by replacing `_` with `/`
+ - `service kiosk start`
+ - done.
